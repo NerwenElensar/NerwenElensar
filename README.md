@@ -1,6 +1,6 @@
 ### Hello World 🌍
 
-I'm a curious Quality Assurance Automation Engineer, who is currently focusing on becoming a Frontend Developer. 
+I'm a curious Quality Assurance Automation Engineer, who is currently learning more about Frontend Development. 
 
 - Born and raised in Germany, now living in the Netherlands 🇳🇱
 - Usually spotted with a book in my hand 📖
@@ -9,6 +9,7 @@ I'm a curious Quality Assurance Automation Engineer, who is currently focusing o
 - Music is life 🎵 🤘
 
 🌱 I’m currently learning ...
+- Webpack
 - React
 - Node.js
 
